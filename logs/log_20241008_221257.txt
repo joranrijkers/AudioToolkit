@@ -1,0 +1,470 @@
+2024-10-08 22:13:22,934 [INFO] Normalization process started.
+2024-10-08 22:13:22,935 [INFO] Found 33 audio files.
+2024-10-08 22:13:22,935 [INFO] Processing (1/33): Max Dean - Max's Reworks Vol.1 - 03 You're The One For Me.aiff
+2024-10-08 22:13:22,935 [INFO] Found 33 audio files.
+2024-10-08 22:13:22,935 [INFO] Processing (1/33): Max Dean - Max's Reworks Vol.1 - 03 You're The One For Me.aiff
+2024-10-08 22:13:31,431 [INFO] Loaded file: Max Dean - Max's Reworks Vol.1 - 03 You're The One For Me.aiff
+2024-10-08 22:13:31,431 [INFO] Loaded file: Max Dean - Max's Reworks Vol.1 - 03 You're The One For Me.aiff
+2024-10-08 22:13:33,348 [INFO] Original Loudness: -8.69 LUFS
+2024-10-08 22:13:33,349 [INFO] Normalizing: Max Dean - Max's Reworks Vol.1 - 03 You're The One For Me.aiff
+2024-10-08 22:13:33,349 [INFO] Original Loudness: -8.69 LUFS
+2024-10-08 22:13:33,431 [INFO] Normalizing: Max Dean - Max's Reworks Vol.1 - 03 You're The One For Me.aiff
+2024-10-08 22:15:07,921 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:15:07,922 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:15:08,636 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Max Dean - Max's Reworks Vol.1 - 03 You're The One For Me.aiff'
+2024-10-08 22:15:08,637 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Max Dean - Max's Reworks Vol.1 - 03 You're The One For Me.aiff'
+2024-10-08 22:15:08,637 [INFO] Processed 'Max Dean - Max's Reworks Vol.1 - 03 You're The One For Me.aiff' in 105.70 seconds.
+2024-10-08 22:15:08,637 [INFO] Processing (2/33): Playhouse (Kolter Remix) - Len Vitz.aiff
+2024-10-08 22:15:08,643 [INFO] Processed 'Max Dean - Max's Reworks Vol.1 - 03 You're The One For Me.aiff' in 105.70 seconds.
+2024-10-08 22:15:08,659 [INFO] Processing (2/33): Playhouse (Kolter Remix) - Len Vitz.aiff
+2024-10-08 22:15:09,171 [INFO] Loaded file: Playhouse (Kolter Remix) - Len Vitz.aiff
+2024-10-08 22:15:09,179 [INFO] Loaded file: Playhouse (Kolter Remix) - Len Vitz.aiff
+2024-10-08 22:15:10,951 [INFO] Original Loudness: -8.41 LUFS
+2024-10-08 22:15:10,951 [INFO] Normalizing: Playhouse (Kolter Remix) - Len Vitz.aiff
+2024-10-08 22:15:10,951 [INFO] Original Loudness: -8.41 LUFS
+2024-10-08 22:15:10,961 [INFO] Normalizing: Playhouse (Kolter Remix) - Len Vitz.aiff
+2024-10-08 22:16:36,474 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:16:36,475 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:16:37,074 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Playhouse (Kolter Remix) - Len Vitz.aiff'
+2024-10-08 22:16:37,075 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Playhouse (Kolter Remix) - Len Vitz.aiff'
+2024-10-08 22:16:37,075 [INFO] Processed 'Playhouse (Kolter Remix) - Len Vitz.aiff' in 88.44 seconds.
+2024-10-08 22:16:37,075 [INFO] Processed 'Playhouse (Kolter Remix) - Len Vitz.aiff' in 88.44 seconds.
+2024-10-08 22:16:37,075 [INFO] Processing (3/33): Mindset - RUZE.aiff
+2024-10-08 22:16:37,093 [INFO] Processing (3/33): Mindset - RUZE.aiff
+2024-10-08 22:16:37,586 [INFO] Loaded file: Mindset - RUZE.aiff
+2024-10-08 22:16:37,587 [INFO] Loaded file: Mindset - RUZE.aiff
+2024-10-08 22:16:39,251 [INFO] Original Loudness: -9.53 LUFS
+2024-10-08 22:16:39,251 [INFO] Original Loudness: -9.53 LUFS
+2024-10-08 22:16:39,251 [INFO] Normalizing: Mindset - RUZE.aiff
+2024-10-08 22:16:39,260 [INFO] Normalizing: Mindset - RUZE.aiff
+2024-10-08 22:21:04,035 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:21:04,035 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:21:04,817 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Mindset - RUZE.aiff'
+2024-10-08 22:21:04,818 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Mindset - RUZE.aiff'
+2024-10-08 22:21:04,818 [INFO] Processed 'Mindset - RUZE.aiff' in 267.74 seconds.
+2024-10-08 22:21:04,819 [INFO] Processing (4/33): Love Sensation - Semmi Amdouni.aiff
+2024-10-08 22:21:04,821 [INFO] Processed 'Mindset - RUZE.aiff' in 267.74 seconds.
+2024-10-08 22:21:04,822 [INFO] Processing (4/33): Love Sensation - Semmi Amdouni.aiff
+2024-10-08 22:21:05,632 [INFO] Loaded file: Love Sensation - Semmi Amdouni.aiff
+2024-10-08 22:21:05,632 [INFO] Loaded file: Love Sensation - Semmi Amdouni.aiff
+2024-10-08 22:21:09,125 [INFO] Original Loudness: -8.82 LUFS
+2024-10-08 22:21:09,125 [INFO] Original Loudness: -8.82 LUFS
+2024-10-08 22:21:09,126 [INFO] Normalizing: Love Sensation - Semmi Amdouni.aiff
+2024-10-08 22:21:09,146 [INFO] Normalizing: Love Sensation - Semmi Amdouni.aiff
+2024-10-08 22:23:48,643 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:23:48,643 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:23:48,992 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Love Sensation - Semmi Amdouni.aiff'
+2024-10-08 22:23:48,993 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Love Sensation - Semmi Amdouni.aiff'
+2024-10-08 22:23:48,993 [INFO] Processed 'Love Sensation - Semmi Amdouni.aiff' in 164.17 seconds.
+2024-10-08 22:23:48,993 [INFO] Processed 'Love Sensation - Semmi Amdouni.aiff' in 164.17 seconds.
+2024-10-08 22:23:48,993 [INFO] Processing (5/33): Ive Arrived - Obskür Tomike.aiff
+2024-10-08 22:23:48,993 [INFO] Processing (5/33): Ive Arrived - Obskür Tomike.aiff
+2024-10-08 22:23:49,478 [INFO] Loaded file: Ive Arrived - Obskür Tomike.aiff
+2024-10-08 22:23:49,504 [INFO] Loaded file: Ive Arrived - Obskür Tomike.aiff
+2024-10-08 22:23:50,551 [INFO] Original Loudness: -8.38 LUFS
+2024-10-08 22:23:50,552 [INFO] Original Loudness: -8.38 LUFS
+2024-10-08 22:23:50,552 [INFO] Normalizing: Ive Arrived - Obskür Tomike.aiff
+2024-10-08 22:23:50,561 [INFO] Normalizing: Ive Arrived - Obskür Tomike.aiff
+2024-10-08 22:24:54,748 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:24:54,748 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:24:55,285 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Ive Arrived - Obskür Tomike.aiff'
+2024-10-08 22:24:55,285 [INFO] Processed 'Ive Arrived - Obskür Tomike.aiff' in 66.29 seconds.
+2024-10-08 22:24:55,285 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Ive Arrived - Obskür Tomike.aiff'
+2024-10-08 22:24:55,285 [INFO] Processed 'Ive Arrived - Obskür Tomike.aiff' in 66.29 seconds.
+2024-10-08 22:24:55,287 [INFO] Processing (6/33): Fire - Jizz.aiff
+2024-10-08 22:24:55,288 [INFO] Processing (6/33): Fire - Jizz.aiff
+2024-10-08 22:24:55,860 [INFO] Loaded file: Fire - Jizz.aiff
+2024-10-08 22:24:55,860 [INFO] Loaded file: Fire - Jizz.aiff
+2024-10-08 22:24:57,810 [INFO] Original Loudness: -8.48 LUFS
+2024-10-08 22:24:57,811 [INFO] Original Loudness: -8.48 LUFS
+2024-10-08 22:24:57,811 [INFO] Normalizing: Fire - Jizz.aiff
+2024-10-08 22:24:57,821 [INFO] Normalizing: Fire - Jizz.aiff
+2024-10-08 22:28:21,679 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:28:21,680 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:28:22,389 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Fire - Jizz.aiff'
+2024-10-08 22:28:22,389 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Fire - Jizz.aiff'
+2024-10-08 22:28:22,389 [INFO] Processed 'Fire - Jizz.aiff' in 207.10 seconds.
+2024-10-08 22:28:22,390 [INFO] Processing (7/33): Ya Money - SEMMI AMDOUNI.aiff
+2024-10-08 22:28:22,390 [INFO] Processed 'Fire - Jizz.aiff' in 207.10 seconds.
+2024-10-08 22:28:22,397 [INFO] Processing (7/33): Ya Money - SEMMI AMDOUNI.aiff
+2024-10-08 22:28:22,836 [INFO] Loaded file: Ya Money - SEMMI AMDOUNI.aiff
+2024-10-08 22:28:22,842 [INFO] Loaded file: Ya Money - SEMMI AMDOUNI.aiff
+2024-10-08 22:28:23,704 [INFO] Original Loudness: -8.53 LUFS
+2024-10-08 22:28:23,704 [INFO] Original Loudness: -8.53 LUFS
+2024-10-08 22:28:23,705 [INFO] Normalizing: Ya Money - SEMMI AMDOUNI.aiff
+2024-10-08 22:28:23,705 [INFO] Normalizing: Ya Money - SEMMI AMDOUNI.aiff
+2024-10-08 22:29:22,496 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:29:22,496 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:29:22,980 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Ya Money - SEMMI AMDOUNI.aiff'
+2024-10-08 22:29:22,980 [INFO] Processed 'Ya Money - SEMMI AMDOUNI.aiff' in 60.59 seconds.
+2024-10-08 22:29:22,981 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Ya Money - SEMMI AMDOUNI.aiff'
+2024-10-08 22:29:22,981 [INFO] Processing (8/33): In My Dreams - Danny Snowden.aiff
+2024-10-08 22:29:22,981 [INFO] Processed 'Ya Money - SEMMI AMDOUNI.aiff' in 60.59 seconds.
+2024-10-08 22:29:22,988 [INFO] Processing (8/33): In My Dreams - Danny Snowden.aiff
+2024-10-08 22:29:23,575 [INFO] Loaded file: In My Dreams - Danny Snowden.aiff
+2024-10-08 22:29:23,587 [INFO] Loaded file: In My Dreams - Danny Snowden.aiff
+2024-10-08 22:29:25,622 [INFO] Original Loudness: -8.70 LUFS
+2024-10-08 22:29:25,623 [INFO] Normalizing: In My Dreams - Danny Snowden.aiff
+2024-10-08 22:29:25,657 [INFO] Original Loudness: -8.70 LUFS
+2024-10-08 22:29:25,657 [INFO] Normalizing: In My Dreams - Danny Snowden.aiff
+2024-10-08 22:35:27,668 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:35:27,671 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:35:28,508 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/In My Dreams - Danny Snowden.aiff'
+2024-10-08 22:35:28,508 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/In My Dreams - Danny Snowden.aiff'
+2024-10-08 22:35:28,508 [INFO] Processed 'In My Dreams - Danny Snowden.aiff' in 365.53 seconds.
+2024-10-08 22:35:28,509 [INFO] Processing (9/33): Heaven - Ive Lovers.aiff
+2024-10-08 22:35:28,509 [INFO] Processed 'In My Dreams - Danny Snowden.aiff' in 365.53 seconds.
+2024-10-08 22:35:28,525 [INFO] Processing (9/33): Heaven - Ive Lovers.aiff
+2024-10-08 22:35:29,229 [INFO] Loaded file: Heaven - Ive Lovers.aiff
+2024-10-08 22:35:29,238 [INFO] Loaded file: Heaven - Ive Lovers.aiff
+2024-10-08 22:35:30,673 [INFO] Original Loudness: -10.08 LUFS
+2024-10-08 22:35:30,673 [INFO] Original Loudness: -10.08 LUFS
+2024-10-08 22:35:30,673 [INFO] Normalizing: Heaven - Ive Lovers.aiff
+2024-10-08 22:35:30,682 [INFO] Normalizing: Heaven - Ive Lovers.aiff
+2024-10-08 22:41:30,591 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:41:30,592 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:41:31,355 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Heaven - Ive Lovers.aiff'
+2024-10-08 22:41:31,356 [INFO] Processed 'Heaven - Ive Lovers.aiff' in 362.85 seconds.
+2024-10-08 22:41:31,356 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Heaven - Ive Lovers.aiff'
+2024-10-08 22:41:31,357 [INFO] Processing (10/33): Closer - Gaskin.aiff
+2024-10-08 22:41:31,357 [INFO] Processed 'Heaven - Ive Lovers.aiff' in 362.85 seconds.
+2024-10-08 22:41:31,370 [INFO] Processing (10/33): Closer - Gaskin.aiff
+2024-10-08 22:41:32,342 [INFO] Loaded file: Closer - Gaskin.aiff
+2024-10-08 22:41:32,343 [INFO] Loaded file: Closer - Gaskin.aiff
+2024-10-08 22:41:39,479 [INFO] Original Loudness: -8.97 LUFS
+2024-10-08 22:41:39,480 [INFO] Original Loudness: -8.97 LUFS
+2024-10-08 22:41:39,481 [INFO] Normalizing: Closer - Gaskin.aiff
+2024-10-08 22:41:39,512 [INFO] Normalizing: Closer - Gaskin.aiff
+2024-10-08 22:49:27,940 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:49:27,941 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:49:28,675 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Closer - Gaskin.aiff'
+2024-10-08 22:49:28,676 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Closer - Gaskin.aiff'
+2024-10-08 22:49:28,678 [INFO] Processed 'Closer - Gaskin.aiff' in 477.32 seconds.
+2024-10-08 22:49:28,679 [INFO] Processing (11/33): Funk You - Kreech.aiff
+2024-10-08 22:49:28,680 [INFO] Processed 'Closer - Gaskin.aiff' in 477.32 seconds.
+2024-10-08 22:49:28,681 [INFO] Processing (11/33): Funk You - Kreech.aiff
+2024-10-08 22:49:29,451 [INFO] Loaded file: Funk You - Kreech.aiff
+2024-10-08 22:49:29,452 [INFO] Loaded file: Funk You - Kreech.aiff
+2024-10-08 22:49:31,144 [INFO] Original Loudness: -9.20 LUFS
+2024-10-08 22:49:31,144 [INFO] Original Loudness: -9.20 LUFS
+2024-10-08 22:49:31,144 [INFO] Normalizing: Funk You - Kreech.aiff
+2024-10-08 22:49:31,155 [INFO] Normalizing: Funk You - Kreech.aiff
+2024-10-08 22:51:50,821 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:51:50,822 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:51:51,470 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Funk You - Kreech.aiff'
+2024-10-08 22:51:51,470 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Funk You - Kreech.aiff'
+2024-10-08 22:51:51,471 [INFO] Processed 'Funk You - Kreech.aiff' in 142.79 seconds.
+2024-10-08 22:51:51,471 [INFO] Processing (12/33): Initiate - Job De Jong.aiff
+2024-10-08 22:51:51,472 [INFO] Processed 'Funk You - Kreech.aiff' in 142.79 seconds.
+2024-10-08 22:51:51,489 [INFO] Processing (12/33): Initiate - Job De Jong.aiff
+2024-10-08 22:51:52,132 [INFO] Loaded file: Initiate - Job De Jong.aiff
+2024-10-08 22:51:52,132 [INFO] Loaded file: Initiate - Job De Jong.aiff
+2024-10-08 22:51:54,107 [INFO] Original Loudness: -9.15 LUFS
+2024-10-08 22:51:54,107 [INFO] Normalizing: Initiate - Job De Jong.aiff
+2024-10-08 22:51:54,117 [INFO] Original Loudness: -9.15 LUFS
+2024-10-08 22:51:54,117 [INFO] Normalizing: Initiate - Job De Jong.aiff
+2024-10-08 22:55:47,607 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:55:47,607 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:55:48,362 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Initiate - Job De Jong.aiff'
+2024-10-08 22:55:48,362 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Initiate - Job De Jong.aiff'
+2024-10-08 22:55:48,362 [INFO] Processed 'Initiate - Job De Jong.aiff' in 236.89 seconds.
+2024-10-08 22:55:48,363 [INFO] Processed 'Initiate - Job De Jong.aiff' in 236.89 seconds.
+2024-10-08 22:55:48,363 [INFO] Processing (13/33): Lauren - Oden.aiff
+2024-10-08 22:55:48,363 [INFO] Processing (13/33): Lauren - Oden.aiff
+2024-10-08 22:55:49,301 [INFO] Loaded file: Lauren - Oden.aiff
+2024-10-08 22:55:49,410 [INFO] Loaded file: Lauren - Oden.aiff
+2024-10-08 22:55:53,874 [INFO] Original Loudness: -9.34 LUFS
+2024-10-08 22:55:53,874 [INFO] Normalizing: Lauren - Oden.aiff
+2024-10-08 22:55:53,874 [INFO] Original Loudness: -9.34 LUFS
+2024-10-08 22:55:53,904 [INFO] Normalizing: Lauren - Oden.aiff
+2024-10-08 23:00:12,501 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:00:12,501 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:00:13,102 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Lauren - Oden.aiff'
+2024-10-08 23:00:13,103 [INFO] Processed 'Lauren - Oden.aiff' in 264.74 seconds.
+2024-10-08 23:00:13,103 [INFO] Processing (14/33): I Won't Tell (Vales Remix) - High Soundsystem.aiff
+2024-10-08 23:00:13,103 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Lauren - Oden.aiff'
+2024-10-08 23:00:13,103 [INFO] Processed 'Lauren - Oden.aiff' in 264.74 seconds.
+2024-10-08 23:00:13,104 [INFO] Processing (14/33): I Won't Tell (Vales Remix) - High Soundsystem.aiff
+2024-10-08 23:00:13,774 [INFO] Loaded file: I Won't Tell (Vales Remix) - High Soundsystem.aiff
+2024-10-08 23:00:13,850 [INFO] Loaded file: I Won't Tell (Vales Remix) - High Soundsystem.aiff
+2024-10-08 23:00:16,188 [INFO] Original Loudness: -8.48 LUFS
+2024-10-08 23:00:16,188 [INFO] Normalizing: I Won't Tell (Vales Remix) - High Soundsystem.aiff
+2024-10-08 23:00:16,189 [INFO] Original Loudness: -8.48 LUFS
+2024-10-08 23:00:16,197 [INFO] Normalizing: I Won't Tell (Vales Remix) - High Soundsystem.aiff
+2024-10-08 23:03:31,146 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:03:31,146 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:03:31,719 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/I Won't Tell (Vales Remix) - High Soundsystem.aiff'
+2024-10-08 23:03:31,720 [INFO] Processed 'I Won't Tell (Vales Remix) - High Soundsystem.aiff' in 198.62 seconds.
+2024-10-08 23:03:31,721 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/I Won't Tell (Vales Remix) - High Soundsystem.aiff'
+2024-10-08 23:03:31,721 [INFO] Processing (15/33): Jungle Trip - Menesix.aiff
+2024-10-08 23:03:31,722 [INFO] Processed 'I Won't Tell (Vales Remix) - High Soundsystem.aiff' in 198.62 seconds.
+2024-10-08 23:03:31,723 [INFO] Processing (15/33): Jungle Trip - Menesix.aiff
+2024-10-08 23:03:32,565 [INFO] Loaded file: Jungle Trip - Menesix.aiff
+2024-10-08 23:03:32,659 [INFO] Loaded file: Jungle Trip - Menesix.aiff
+2024-10-08 23:03:36,820 [INFO] Original Loudness: -10.38 LUFS
+2024-10-08 23:03:36,820 [INFO] Normalizing: Jungle Trip - Menesix.aiff
+2024-10-08 23:03:36,849 [INFO] Original Loudness: -10.38 LUFS
+2024-10-08 23:03:36,849 [INFO] Normalizing: Jungle Trip - Menesix.aiff
+2024-10-08 23:07:28,851 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:07:28,851 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:07:29,512 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Jungle Trip - Menesix.aiff'
+2024-10-08 23:07:29,512 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Jungle Trip - Menesix.aiff'
+2024-10-08 23:07:29,512 [INFO] Processed 'Jungle Trip - Menesix.aiff' in 237.79 seconds.
+2024-10-08 23:07:29,512 [INFO] Processing (16/33): You Turn Me On - Vales.aiff
+2024-10-08 23:07:29,520 [INFO] Processed 'Jungle Trip - Menesix.aiff' in 237.79 seconds.
+2024-10-08 23:07:29,521 [INFO] Processing (16/33): You Turn Me On - Vales.aiff
+2024-10-08 23:07:30,108 [INFO] Loaded file: You Turn Me On - Vales.aiff
+2024-10-08 23:07:30,108 [INFO] Loaded file: You Turn Me On - Vales.aiff
+2024-10-08 23:07:32,213 [INFO] Original Loudness: -8.20 LUFS
+2024-10-08 23:07:32,213 [INFO] Original Loudness: -8.20 LUFS
+2024-10-08 23:07:32,214 [INFO] Normalizing: You Turn Me On - Vales.aiff
+2024-10-08 23:07:32,221 [INFO] Normalizing: You Turn Me On - Vales.aiff
+2024-10-08 23:10:29,323 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:10:29,323 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:10:29,576 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/You Turn Me On - Vales.aiff'
+2024-10-08 23:10:29,576 [INFO] Processed 'You Turn Me On - Vales.aiff' in 180.06 seconds.
+2024-10-08 23:10:29,576 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/You Turn Me On - Vales.aiff'
+2024-10-08 23:10:29,577 [INFO] Processing (17/33): Baby - Brandy (Artmann Edit).aiff
+2024-10-08 23:10:29,577 [INFO] Processed 'You Turn Me On - Vales.aiff' in 180.06 seconds.
+2024-10-08 23:10:29,586 [INFO] Processing (17/33): Baby - Brandy (Artmann Edit).aiff
+2024-10-08 23:10:30,334 [INFO] Loaded file: Baby - Brandy (Artmann Edit).aiff
+2024-10-08 23:10:30,420 [INFO] Loaded file: Baby - Brandy (Artmann Edit).aiff
+2024-10-08 23:10:34,593 [INFO] Original Loudness: -13.11 LUFS
+2024-10-08 23:10:34,593 [INFO] Original Loudness: -13.11 LUFS
+2024-10-08 23:10:34,593 [INFO] Normalizing: Baby - Brandy (Artmann Edit).aiff
+2024-10-08 23:10:34,618 [INFO] Normalizing: Baby - Brandy (Artmann Edit).aiff
+2024-10-08 23:10:35,018 [WARNING] Limiting gain increase to 6.0 LU to avoid clipping.
+2024-10-08 23:10:35,019 [INFO] Limiting gain increase to 6.0 LU to avoid clipping.
+2024-10-08 23:14:29,670 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:14:29,671 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:14:30,382 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Baby - Brandy (Artmann Edit).aiff'
+2024-10-08 23:14:30,382 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Baby - Brandy (Artmann Edit).aiff'
+2024-10-08 23:14:30,382 [INFO] Processed 'Baby - Brandy (Artmann Edit).aiff' in 240.81 seconds.
+2024-10-08 23:14:30,383 [INFO] Processing (18/33): Hooked on You - Kolter.aiff
+2024-10-08 23:14:30,383 [INFO] Processed 'Baby - Brandy (Artmann Edit).aiff' in 240.81 seconds.
+2024-10-08 23:14:30,383 [INFO] Processing (18/33): Hooked on You - Kolter.aiff
+2024-10-08 23:14:31,266 [INFO] Loaded file: Hooked on You - Kolter.aiff
+2024-10-08 23:14:31,266 [INFO] Loaded file: Hooked on You - Kolter.aiff
+2024-10-08 23:14:36,265 [INFO] Original Loudness: -9.01 LUFS
+2024-10-08 23:14:36,266 [INFO] Original Loudness: -9.01 LUFS
+2024-10-08 23:14:36,266 [INFO] Normalizing: Hooked on You - Kolter.aiff
+2024-10-08 23:14:36,280 [INFO] Normalizing: Hooked on You - Kolter.aiff
+2024-10-08 23:18:55,777 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:18:55,777 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:18:56,327 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Hooked on You - Kolter.aiff'
+2024-10-08 23:18:56,327 [INFO] Processed 'Hooked on You - Kolter.aiff' in 265.94 seconds.
+2024-10-08 23:18:56,327 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Hooked on You - Kolter.aiff'
+2024-10-08 23:18:56,328 [INFO] Processing (19/33): Max Dean - Max's Reworks Vol.1 - 02 Stomp.aiff
+2024-10-08 23:18:56,328 [INFO] Processed 'Hooked on You - Kolter.aiff' in 265.94 seconds.
+2024-10-08 23:18:56,328 [INFO] Processing (19/33): Max Dean - Max's Reworks Vol.1 - 02 Stomp.aiff
+2024-10-08 23:19:12,256 [INFO] Loaded file: Max Dean - Max's Reworks Vol.1 - 02 Stomp.aiff
+2024-10-08 23:19:12,256 [INFO] Loaded file: Max Dean - Max's Reworks Vol.1 - 02 Stomp.aiff
+2024-10-08 23:19:16,027 [INFO] Original Loudness: -7.06 LUFS
+2024-10-08 23:19:16,027 [INFO] Normalizing: Max Dean - Max's Reworks Vol.1 - 02 Stomp.aiff
+2024-10-08 23:19:16,187 [INFO] Original Loudness: -7.06 LUFS
+2024-10-08 23:19:16,187 [INFO] Normalizing: Max Dean - Max's Reworks Vol.1 - 02 Stomp.aiff
+2024-10-08 23:24:01,287 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:24:01,287 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:24:01,948 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Max Dean - Max's Reworks Vol.1 - 02 Stomp.aiff'
+2024-10-08 23:24:01,948 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Max Dean - Max's Reworks Vol.1 - 02 Stomp.aiff'
+2024-10-08 23:24:01,948 [INFO] Processed 'Max Dean - Max's Reworks Vol.1 - 02 Stomp.aiff' in 305.62 seconds.
+2024-10-08 23:24:01,948 [INFO] Processing (20/33): My Jam - Ozzie Guven.aiff
+2024-10-08 23:24:01,949 [INFO] Processed 'Max Dean - Max's Reworks Vol.1 - 02 Stomp.aiff' in 305.62 seconds.
+2024-10-08 23:24:01,949 [INFO] Processing (20/33): My Jam - Ozzie Guven.aiff
+2024-10-08 23:24:02,818 [INFO] Loaded file: My Jam - Ozzie Guven.aiff
+2024-10-08 23:24:02,818 [INFO] Loaded file: My Jam - Ozzie Guven.aiff
+2024-10-08 23:24:06,093 [INFO] Original Loudness: -10.05 LUFS
+2024-10-08 23:24:06,093 [INFO] Original Loudness: -10.05 LUFS
+2024-10-08 23:24:06,093 [INFO] Normalizing: My Jam - Ozzie Guven.aiff
+2024-10-08 23:24:06,126 [INFO] Normalizing: My Jam - Ozzie Guven.aiff
+2024-10-08 23:28:25,632 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:28:25,632 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:28:25,940 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/My Jam - Ozzie Guven.aiff'
+2024-10-08 23:28:25,940 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/My Jam - Ozzie Guven.aiff'
+2024-10-08 23:28:25,940 [INFO] Processed 'My Jam - Ozzie Guven.aiff' in 263.99 seconds.
+2024-10-08 23:28:25,940 [INFO] Processed 'My Jam - Ozzie Guven.aiff' in 263.99 seconds.
+2024-10-08 23:28:25,941 [INFO] Processing (21/33): Feelin Luvv - Ive Lovers.aiff
+2024-10-08 23:28:25,941 [INFO] Processing (21/33): Feelin Luvv - Ive Lovers.aiff
+2024-10-08 23:28:26,846 [INFO] Loaded file: Feelin Luvv - Ive Lovers.aiff
+2024-10-08 23:28:26,940 [INFO] Loaded file: Feelin Luvv - Ive Lovers.aiff
+2024-10-08 23:28:30,293 [INFO] Original Loudness: -10.06 LUFS
+2024-10-08 23:28:30,293 [INFO] Original Loudness: -10.06 LUFS
+2024-10-08 23:28:30,294 [INFO] Normalizing: Feelin Luvv - Ive Lovers.aiff
+2024-10-08 23:28:30,325 [INFO] Normalizing: Feelin Luvv - Ive Lovers.aiff
+2024-10-08 23:32:57,380 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:32:57,381 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:32:58,019 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Feelin Luvv - Ive Lovers.aiff'
+2024-10-08 23:32:58,020 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Feelin Luvv - Ive Lovers.aiff'
+2024-10-08 23:32:58,020 [INFO] Processed 'Feelin Luvv - Ive Lovers.aiff' in 272.08 seconds.
+2024-10-08 23:32:58,021 [INFO] Processing (22/33): Enchanted - Job De Jong.aiff
+2024-10-08 23:32:58,021 [INFO] Processed 'Feelin Luvv - Ive Lovers.aiff' in 272.08 seconds.
+2024-10-08 23:32:58,029 [INFO] Processing (22/33): Enchanted - Job De Jong.aiff
+2024-10-08 23:32:59,075 [INFO] Loaded file: Enchanted - Job De Jong.aiff
+2024-10-08 23:32:59,181 [INFO] Loaded file: Enchanted - Job De Jong.aiff
+2024-10-08 23:33:04,533 [INFO] Original Loudness: -9.82 LUFS
+2024-10-08 23:33:04,533 [INFO] Normalizing: Enchanted - Job De Jong.aiff
+2024-10-08 23:33:04,549 [INFO] Original Loudness: -9.82 LUFS
+2024-10-08 23:33:04,550 [INFO] Normalizing: Enchanted - Job De Jong.aiff
+2024-10-08 23:38:42,160 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:38:42,160 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:38:42,823 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Enchanted - Job De Jong.aiff'
+2024-10-08 23:38:42,823 [INFO] Processed 'Enchanted - Job De Jong.aiff' in 344.80 seconds.
+2024-10-08 23:38:42,823 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Enchanted - Job De Jong.aiff'
+2024-10-08 23:38:42,823 [INFO] Processing (23/33): Anthem - Gaskin.aiff
+2024-10-08 23:38:42,824 [INFO] Processed 'Enchanted - Job De Jong.aiff' in 344.80 seconds.
+2024-10-08 23:38:42,846 [INFO] Processing (23/33): Anthem - Gaskin.aiff
+2024-10-08 23:38:43,718 [INFO] Loaded file: Anthem - Gaskin.aiff
+2024-10-08 23:38:43,746 [INFO] Loaded file: Anthem - Gaskin.aiff
+2024-10-08 23:38:47,976 [INFO] Original Loudness: -9.49 LUFS
+2024-10-08 23:38:47,997 [INFO] Original Loudness: -9.49 LUFS
+2024-10-08 23:38:47,997 [INFO] Normalizing: Anthem - Gaskin.aiff
+2024-10-08 23:38:48,009 [INFO] Normalizing: Anthem - Gaskin.aiff
+2024-10-08 23:43:06,860 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:43:06,860 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:43:07,504 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Anthem - Gaskin.aiff'
+2024-10-08 23:43:07,505 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Anthem - Gaskin.aiff'
+2024-10-08 23:43:07,505 [INFO] Processed 'Anthem - Gaskin.aiff' in 264.68 seconds.
+2024-10-08 23:43:07,505 [INFO] Processing (24/33): Keep It Simple - Prunk.aiff
+2024-10-08 23:43:07,505 [INFO] Processed 'Anthem - Gaskin.aiff' in 264.68 seconds.
+2024-10-08 23:43:07,514 [INFO] Processing (24/33): Keep It Simple - Prunk.aiff
+2024-10-08 23:43:08,403 [INFO] Loaded file: Keep It Simple - Prunk.aiff
+2024-10-08 23:43:08,415 [INFO] Loaded file: Keep It Simple - Prunk.aiff
+2024-10-08 23:43:12,862 [INFO] Original Loudness: -8.71 LUFS
+2024-10-08 23:43:12,862 [INFO] Original Loudness: -8.71 LUFS
+2024-10-08 23:43:12,862 [INFO] Normalizing: Keep It Simple - Prunk.aiff
+2024-10-08 23:43:12,874 [INFO] Normalizing: Keep It Simple - Prunk.aiff
+2024-10-08 23:47:30,715 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:47:30,715 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:47:31,527 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Keep It Simple - Prunk.aiff'
+2024-10-08 23:47:31,527 [INFO] Processed 'Keep It Simple - Prunk.aiff' in 264.02 seconds.
+2024-10-08 23:47:31,527 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Keep It Simple - Prunk.aiff'
+2024-10-08 23:47:31,528 [INFO] Processing (25/33): Step han - DJOKO.aiff
+2024-10-08 23:47:31,528 [INFO] Processed 'Keep It Simple - Prunk.aiff' in 264.02 seconds.
+2024-10-08 23:47:31,553 [INFO] Processing (25/33): Step han - DJOKO.aiff
+2024-10-08 23:47:32,522 [INFO] Loaded file: Step han - DJOKO.aiff
+2024-10-08 23:47:32,523 [INFO] Loaded file: Step han - DJOKO.aiff
+2024-10-08 23:47:36,202 [INFO] Original Loudness: -8.11 LUFS
+2024-10-08 23:47:36,202 [INFO] Original Loudness: -8.11 LUFS
+2024-10-08 23:47:36,202 [INFO] Normalizing: Step han - DJOKO.aiff
+2024-10-08 23:47:36,218 [INFO] Normalizing: Step han - DJOKO.aiff
+2024-10-08 23:51:29,111 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:51:29,111 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:51:29,524 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Step han - DJOKO.aiff'
+2024-10-08 23:51:29,524 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Step han - DJOKO.aiff'
+2024-10-08 23:51:29,524 [INFO] Processed 'Step han - DJOKO.aiff' in 238.00 seconds.
+2024-10-08 23:51:29,524 [INFO] Processed 'Step han - DJOKO.aiff' in 238.00 seconds.
+2024-10-08 23:51:29,525 [INFO] Processing (26/33): R U Sleeping (Grant Nelson Remix) - Grant Nelson.aiff
+2024-10-08 23:51:29,525 [INFO] Processing (26/33): R U Sleeping (Grant Nelson Remix) - Grant Nelson.aiff
+2024-10-08 23:51:30,498 [INFO] Loaded file: R U Sleeping (Grant Nelson Remix) - Grant Nelson.aiff
+2024-10-08 23:51:30,513 [INFO] Loaded file: R U Sleeping (Grant Nelson Remix) - Grant Nelson.aiff
+2024-10-08 23:51:35,899 [INFO] Original Loudness: -12.26 LUFS
+2024-10-08 23:51:35,899 [INFO] Original Loudness: -12.26 LUFS
+2024-10-08 23:51:35,900 [INFO] Normalizing: R U Sleeping (Grant Nelson Remix) - Grant Nelson.aiff
+2024-10-08 23:51:35,917 [INFO] Normalizing: R U Sleeping (Grant Nelson Remix) - Grant Nelson.aiff
+2024-10-08 23:56:27,550 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:56:27,550 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 23:56:28,267 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/R U Sleeping (Grant Nelson Remix) - Grant Nelson.aiff'
+2024-10-08 23:56:28,267 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/R U Sleeping (Grant Nelson Remix) - Grant Nelson.aiff'
+2024-10-08 23:56:28,267 [INFO] Processed 'R U Sleeping (Grant Nelson Remix) - Grant Nelson.aiff' in 298.74 seconds.
+2024-10-08 23:56:28,267 [INFO] Processing (27/33): Holding onto you - DJOKO.aiff
+2024-10-08 23:56:28,275 [INFO] Processed 'R U Sleeping (Grant Nelson Remix) - Grant Nelson.aiff' in 298.74 seconds.
+2024-10-08 23:56:28,276 [INFO] Processing (27/33): Holding onto you - DJOKO.aiff
+2024-10-08 23:56:29,080 [INFO] Loaded file: Holding onto you - DJOKO.aiff
+2024-10-08 23:56:29,118 [INFO] Loaded file: Holding onto you - DJOKO.aiff
+2024-10-08 23:56:32,118 [INFO] Original Loudness: -8.88 LUFS
+2024-10-08 23:56:32,119 [INFO] Original Loudness: -8.88 LUFS
+2024-10-08 23:56:32,119 [INFO] Normalizing: Holding onto you - DJOKO.aiff
+2024-10-08 23:56:32,129 [INFO] Normalizing: Holding onto you - DJOKO.aiff
+2024-10-09 00:00:15,102 [INFO] Normalized to: -7.00 LUFS
+2024-10-09 00:00:15,102 [INFO] Normalized to: -7.00 LUFS
+2024-10-09 00:00:15,691 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Holding onto you - DJOKO.aiff'
+2024-10-09 00:00:15,691 [INFO] Processed 'Holding onto you - DJOKO.aiff' in 227.42 seconds.
+2024-10-09 00:00:15,691 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Holding onto you - DJOKO.aiff'
+2024-10-09 00:00:15,692 [INFO] Processing (28/33): It's My Beat - Robbie Doherty.aiff
+2024-10-09 00:00:15,692 [INFO] Processed 'Holding onto you - DJOKO.aiff' in 227.42 seconds.
+2024-10-09 00:00:15,700 [INFO] Processing (28/33): It's My Beat - Robbie Doherty.aiff
+2024-10-09 00:00:16,530 [INFO] Loaded file: It's My Beat - Robbie Doherty.aiff
+2024-10-09 00:00:16,530 [INFO] Loaded file: It's My Beat - Robbie Doherty.aiff
+2024-10-09 00:00:20,289 [INFO] Original Loudness: -8.19 LUFS
+2024-10-09 00:00:20,289 [INFO] Normalizing: It's My Beat - Robbie Doherty.aiff
+2024-10-09 00:00:20,289 [INFO] Original Loudness: -8.19 LUFS
+2024-10-09 00:00:20,301 [INFO] Normalizing: It's My Beat - Robbie Doherty.aiff
+2024-10-09 00:04:32,639 [INFO] Normalized to: -7.00 LUFS
+2024-10-09 00:04:32,639 [INFO] Normalized to: -7.00 LUFS
+2024-10-09 00:04:33,338 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/It's My Beat - Robbie Doherty.aiff'
+2024-10-09 00:04:33,339 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/It's My Beat - Robbie Doherty.aiff'
+2024-10-09 00:04:33,339 [INFO] Processed 'It's My Beat - Robbie Doherty.aiff' in 257.65 seconds.
+2024-10-09 00:04:33,339 [INFO] Processed 'It's My Beat - Robbie Doherty.aiff' in 257.65 seconds.
+2024-10-09 00:04:33,339 [INFO] Processing (29/33): Bad to the Bone - Kolter.aiff
+2024-10-09 00:04:33,341 [INFO] Processing (29/33): Bad to the Bone - Kolter.aiff
+2024-10-09 00:04:34,200 [INFO] Loaded file: Bad to the Bone - Kolter.aiff
+2024-10-09 00:04:34,231 [INFO] Loaded file: Bad to the Bone - Kolter.aiff
+2024-10-09 00:04:37,243 [INFO] Original Loudness: -7.09 LUFS
+2024-10-09 00:04:37,243 [INFO] Original Loudness: -7.09 LUFS
+2024-10-09 00:04:37,244 [INFO] Normalizing: Bad to the Bone - Kolter.aiff
+2024-10-09 00:04:37,256 [INFO] Normalizing: Bad to the Bone - Kolter.aiff
+2024-10-09 00:08:30,544 [INFO] Normalized to: -7.00 LUFS
+2024-10-09 00:08:30,544 [INFO] Normalized to: -7.00 LUFS
+2024-10-09 00:08:31,196 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Bad to the Bone - Kolter.aiff'
+2024-10-09 00:08:31,197 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Bad to the Bone - Kolter.aiff'
+2024-10-09 00:08:31,197 [INFO] Processed 'Bad to the Bone - Kolter.aiff' in 237.86 seconds.
+2024-10-09 00:08:31,197 [INFO] Processing (30/33): All My People - CTRINN.aiff
+2024-10-09 00:08:31,198 [INFO] Processed 'Bad to the Bone - Kolter.aiff' in 237.86 seconds.
+2024-10-09 00:08:31,198 [INFO] Processing (30/33): All My People - CTRINN.aiff
+2024-10-09 00:08:32,231 [INFO] Loaded file: All My People - CTRINN.aiff
+2024-10-09 00:08:32,231 [INFO] Loaded file: All My People - CTRINN.aiff
+2024-10-09 00:08:36,903 [INFO] Original Loudness: -9.07 LUFS
+2024-10-09 00:08:36,903 [INFO] Original Loudness: -9.07 LUFS
+2024-10-09 00:08:36,904 [INFO] Normalizing: All My People - CTRINN.aiff
+2024-10-09 00:08:36,933 [INFO] Normalizing: All My People - CTRINN.aiff
+2024-10-09 00:13:16,319 [INFO] Normalized to: -7.00 LUFS
+2024-10-09 00:13:16,319 [INFO] Normalized to: -7.00 LUFS
+2024-10-09 00:13:16,958 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/All My People - CTRINN.aiff'
+2024-10-09 00:13:16,959 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/All My People - CTRINN.aiff'
+2024-10-09 00:13:16,961 [INFO] Processed 'All My People - CTRINN.aiff' in 285.76 seconds.
+2024-10-09 00:13:16,962 [INFO] Processing (31/33): Untitled 01 - Job De Jong.aiff
+2024-10-09 00:13:16,963 [INFO] Processed 'All My People - CTRINN.aiff' in 285.76 seconds.
+2024-10-09 00:13:16,963 [INFO] Processing (31/33): Untitled 01 - Job De Jong.aiff
+2024-10-09 00:13:17,785 [INFO] Loaded file: Untitled 01 - Job De Jong.aiff
+2024-10-09 00:13:17,786 [INFO] Loaded file: Untitled 01 - Job De Jong.aiff
+2024-10-09 00:13:22,469 [INFO] Original Loudness: -8.93 LUFS
+2024-10-09 00:13:22,469 [INFO] Normalizing: Untitled 01 - Job De Jong.aiff
+2024-10-09 00:13:22,493 [INFO] Original Loudness: -8.93 LUFS
+2024-10-09 00:13:22,493 [INFO] Normalizing: Untitled 01 - Job De Jong.aiff
+2024-10-09 00:17:42,672 [INFO] Normalized to: -7.00 LUFS
+2024-10-09 00:17:42,672 [INFO] Normalized to: -7.00 LUFS
+2024-10-09 00:17:43,294 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Untitled 01 - Job De Jong.aiff'
+2024-10-09 00:17:43,294 [INFO] Processed 'Untitled 01 - Job De Jong.aiff' in 266.33 seconds.
+2024-10-09 00:17:43,298 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Untitled 01 - Job De Jong.aiff'
+2024-10-09 00:17:43,298 [INFO] Processing (32/33): Max Dean - Max's Reworks Vol.1 - 01 Never Gonna' Stop.aiff
+2024-10-09 00:17:43,299 [INFO] Processed 'Untitled 01 - Job De Jong.aiff' in 266.33 seconds.
+2024-10-09 00:17:43,306 [INFO] Processing (32/33): Max Dean - Max's Reworks Vol.1 - 01 Never Gonna' Stop.aiff
+2024-10-09 00:18:03,774 [INFO] Loaded file: Max Dean - Max's Reworks Vol.1 - 01 Never Gonna' Stop.aiff
+2024-10-09 00:18:03,774 [INFO] Loaded file: Max Dean - Max's Reworks Vol.1 - 01 Never Gonna' Stop.aiff
+2024-10-09 00:18:08,305 [INFO] Original Loudness: -9.35 LUFS
+2024-10-09 00:18:08,305 [INFO] Original Loudness: -9.35 LUFS
+2024-10-09 00:18:08,305 [INFO] Normalizing: Max Dean - Max's Reworks Vol.1 - 01 Never Gonna' Stop.aiff
+2024-10-09 00:18:08,492 [INFO] Normalizing: Max Dean - Max's Reworks Vol.1 - 01 Never Gonna' Stop.aiff
+2024-10-09 00:22:29,823 [INFO] Normalized to: -7.00 LUFS
+2024-10-09 00:22:29,824 [INFO] Normalized to: -7.00 LUFS
+2024-10-09 00:22:30,537 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Max Dean - Max's Reworks Vol.1 - 01 Never Gonna' Stop.aiff'
+2024-10-09 00:22:30,537 [INFO] Processed 'Max Dean - Max's Reworks Vol.1 - 01 Never Gonna' Stop.aiff' in 287.24 seconds.
+2024-10-09 00:22:30,540 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Max Dean - Max's Reworks Vol.1 - 01 Never Gonna' Stop.aiff'
+2024-10-09 00:22:30,541 [INFO] Processing (33/33): Inside Man - Job De Jong.aiff
+2024-10-09 00:22:30,541 [INFO] Processed 'Max Dean - Max's Reworks Vol.1 - 01 Never Gonna' Stop.aiff' in 287.24 seconds.
+2024-10-09 00:22:30,554 [INFO] Processing (33/33): Inside Man - Job De Jong.aiff
+2024-10-09 00:22:31,226 [INFO] Loaded file: Inside Man - Job De Jong.aiff
+2024-10-09 00:22:31,227 [INFO] Loaded file: Inside Man - Job De Jong.aiff
+2024-10-09 00:22:35,597 [INFO] Original Loudness: -9.13 LUFS
+2024-10-09 00:22:35,597 [INFO] Original Loudness: -9.13 LUFS
+2024-10-09 00:22:35,597 [INFO] Normalizing: Inside Man - Job De Jong.aiff
+2024-10-09 00:22:35,620 [INFO] Normalizing: Inside Man - Job De Jong.aiff
+2024-10-09 00:26:44,838 [INFO] Normalized to: -7.00 LUFS
+2024-10-09 00:26:44,838 [INFO] Normalized to: -7.00 LUFS
+2024-10-09 00:26:45,588 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Inside Man - Job De Jong.aiff'
+2024-10-09 00:26:45,588 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Inside Man - Job De Jong.aiff'
+2024-10-09 00:26:45,588 [INFO] Processed 'Inside Man - Job De Jong.aiff' in 255.05 seconds.
+2024-10-09 00:26:45,591 [INFO] Processed 'Inside Man - Job De Jong.aiff' in 255.05 seconds.
+2024-10-09 00:26:45,591 [INFO] Normalization complete.
+2024-10-09 00:26:45,596 [INFO] Normalization complete.
+2024-10-09 00:50:33,458 [INFO] Normalization process finished.

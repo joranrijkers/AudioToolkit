@@ -1,0 +1,15 @@
+2024-10-08 22:03:47,011 [INFO] Normalization process started.
+2024-10-08 22:03:47,012 [INFO] Found 33 audio files.
+2024-10-08 22:03:47,013 [INFO] Processing (1/33): Max Dean - Max's Reworks Vol.1 - 03 You're The One For Me.aiff
+2024-10-08 22:03:47,013 [INFO] Found 33 audio files.
+2024-10-08 22:03:47,013 [INFO] Processing (1/33): Max Dean - Max's Reworks Vol.1 - 03 You're The One For Me.aiff
+2024-10-08 22:03:57,510 [INFO] Original Loudness: -8.69 LUFS
+2024-10-08 22:03:57,510 [INFO] Original Loudness: -8.69 LUFS
+2024-10-08 22:05:34,139 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:05:34,140 [INFO] Normalized to: -7.00 LUFS
+2024-10-08 22:05:34,849 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Max Dean - Max's Reworks Vol.1 - 03 You're The One For Me.aiff'
+2024-10-08 22:05:34,849 [INFO] Saved normalized track to '/Users/joranrijkers/Desktop/music test/Max Dean - Max's Reworks Vol.1 - 03 You're The One For Me.aiff'
+2024-10-08 22:05:34,849 [INFO] Processing (2/33): Playhouse (Kolter Remix) - Len Vitz.aiff
+2024-10-08 22:05:34,860 [INFO] Processing (2/33): Playhouse (Kolter Remix) - Len Vitz.aiff
+2024-10-08 22:05:37,320 [INFO] Original Loudness: -8.41 LUFS
+2024-10-08 22:05:37,321 [INFO] Original Loudness: -8.41 LUFS
